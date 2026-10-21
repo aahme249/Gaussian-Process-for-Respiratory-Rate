@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# BIDMC data: download from PhysioNet (see README)
+data/
+
+# third-party paper PDFs
+*.pdf

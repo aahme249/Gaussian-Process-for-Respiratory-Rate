@@ -1,0 +1,51 @@
+patient 01
+  window     0- 60 s  ref  22.9  GP  21.2 ±  7.5 (RPA)  spectral  12.5
+  window    10- 70 s  ref  21.9  GP  26.2 ±  8.5 (RSA)  spectral  11.1
+  window    20- 80 s  ref  21.6  GP  26.5 ±  8.3 (RSA)  spectral  10.6
+  window    30- 90 s  ref  21.4  GP  26.9 ±  7.4 (RSA)  spectral  10.0
+  window    40-100 s  ref  21.7  GP  24.9 ±  8.1 (RSA)  spectral  19.9
+  window    50-110 s  ref  21.8  GP  22.8 ±  8.0 (RSA)  spectral  10.8
+  window    60-120 s  ref  22.0  GP  22.8 ±  7.9 (RSA)  spectral   6.0
+  window    70-130 s  ref  21.9  GP  24.1 ±  7.8 (RSA)  spectral  30.5
+  window    80-140 s  ref  21.8  GP  24.4 ±  7.6 (RSA)  spectral  16.1
+  window    90-150 s  ref  21.5  GP  24.8 ±  7.7 (RSA)  spectral  15.8
+  window   100-160 s  ref  21.3  GP  24.1 ±  4.8 (RSA)  spectral  22.7
+  window   110-170 s  ref  21.0  GP  25.2 ±  5.4 (RSA)  spectral  22.7
+  window   120-180 s  ref  21.0  GP  29.5 ±  3.7 (RSA)  spectral  22.4
+  window   130-190 s  ref  21.1  GP  29.8 ±  6.8 (RPA)  spectral  21.8
+  window   140-200 s  ref  21.4  GP  25.7 ±  7.2 (RPA)  spectral  20.4
+  window   150-210 s  ref  21.3  GP  22.5 ±  5.3 (RPA)  spectral  12.9
+  window   160-220 s  ref  21.1  GP  23.9 ±  4.6 (RSA)  spectral  13.2
+  window   170-230 s  ref  21.0  GP  23.1 ±  2.6 (RSA)  spectral  13.2
+  window   180-240 s  ref  21.1  GP  22.9 ±  1.8 (RSA)  spectral  12.8
+  window   190-250 s  ref  21.1  GP  22.8 ±  1.4 (RSA)  spectral  23.0
+  window   200-260 s  ref  20.8  GP  20.8 ±  1.0 (RSA)  spectral  20.7
+  window   210-270 s  ref  20.7  GP  20.7 ±  1.4 (RSA)  spectral  20.7
+  window   220-280 s  ref  20.6  GP  20.7 ±  0.7 (RSA)  spectral  20.7
+  window   230-290 s  ref  20.7  GP  20.5 ±  0.8 (RSA)  spectral  20.6
+  window   240-300 s  ref  20.6  GP  20.5 ±  0.4 (RSA)  spectral  20.5
+  window   250-310 s  ref  20.8  GP  28.1 ±  7.7 (RSA)  spectral  20.7
+  window   260-320 s  ref  20.8  GP  28.0 ±  7.7 (RSA)  spectral  16.3
+  window   270-330 s  ref  20.7  GP  27.7 ±  7.5 (RSA)  spectral  17.4
+  window   280-340 s  ref  20.8  GP  32.5 ±  8.2 (RSA)  spectral  24.7
+  window   290-350 s  ref  20.7  GP  21.7 ±  6.0 (RPA)  spectral  24.8
+  window   300-360 s  ref  20.5  GP  23.3 ±  8.4 (RPA)  spectral   7.2
+  window   310-370 s  ref  20.5  GP  24.8 ±  8.3 (RPA)  spectral  20.1
+  window   320-380 s  ref  20.5  GP  24.9 ±  8.8 (RPA)  spectral  20.6
+  window   330-390 s  ref  20.6  GP  26.6 ±  8.8 (RSA)  spectral  20.6
+  window   340-400 s  ref  20.6  GP  30.5 ±  0.1 (RSA)  spectral  20.8
+  window   350-410 s  ref  21.1  GP  30.5 ±  0.1 (RSA)  spectral  20.9
+  window   360-420 s  ref  21.0  GP  23.4 ±  8.3 (RSA)  spectral  11.8
+  window   370-430 s  ref  21.3  GP  23.0 ±  8.2 (RSA)  spectral  11.5
+  window   380-440 s  ref  21.3  GP  23.1 ±  8.3 (RSA)  spectral  11.3
+  window   390-450 s  ref  21.4  GP  19.4 ±  7.0 (RPA)  spectral  21.5
+  window   400-460 s  ref  21.3  GP  22.5 ±  5.0 (RPA)  spectral  21.4
+  window   410-470 s  ref  21.2  GP  27.5 ±  6.1 (RSA)  spectral  20.7
+  window   420-480 s  ref  21.0  GP  20.4 ±  2.6 (RSA)  spectral  20.9
+
+43 windows   MAE  GP 3.61   spectral 4.48 breaths/min
+reference inside GP mean ± 2 SD: 93% of windows
+  GP SD 0-2 breaths/min:  9 windows, MAE 2.59
+  GP SD 2-5 breaths/min:  6 windows, MAE 3.01
+  GP SD 5-inf breaths/min: 28 windows, MAE 4.07
+chosen series: RSA 33, RPA 10
